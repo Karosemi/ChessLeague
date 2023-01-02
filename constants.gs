@@ -21,4 +21,4 @@ var WIN = "win";
 var LOSS = "loss";
 var DRAW = "draw";
 
-var URL = "https://docs.google.com/spreadsheets/d/1vqqbEf7FH5Je25enRB3D0zWwmit2xm_bqxqkN_YAwS8/edit";
+var URL = "";
