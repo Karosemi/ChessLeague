@@ -1,0 +1,1 @@
+This is a source code of macro written for google spread sheet in App Script.
